@@ -9,7 +9,7 @@
 
 ### Function vs Macro calling
 
-Using a '!' in a function call, calls the _macro_ instead of a function (e.g. println!())
+- Using a '!' in a function call, calls the _macro_ instead of a function (e.g. println!())
 
 ### Cargo
 
